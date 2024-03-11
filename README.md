@@ -10,9 +10,4 @@ In the realm of UE5 development, leveraging compute shaders can unlock powerful 
 
 For comprehensive guidance on shader development in UE4, refer to the well-known tutorial repository by [Temaran](https://github.com/Temaran) - [UnrealEngineShaderPluginDemo](https://github.com/Temaran/UnrealEngineShaderPluginDemo). This tutorial covers various aspects of shader creation, offering insights and best practices for UE4 developers.
 
-## Acknowledgments
-
-- [aceyan](https://github.com/aceyan) for the UE4_GPGPU_flocking project and the compute shader example.
-- [Temaran](https://github.com/Temaran) for the UnrealEngineShaderPluginDemo tutorial, a valuable resource for shader development in UE4.
-
 Feel free to explore and experiment with compute shaders in UE5 using this repository as a starting point. Happy coding!
