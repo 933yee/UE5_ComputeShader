@@ -8,6 +8,6 @@ In the realm of UE5 development, leveraging compute shaders can unlock powerful 
 
 ## Additional Resources
 
-For comprehensive guidance on shader development in UE4, refer to the well-known tutorial repository by [Temaran](https://github.com/Temaran) - [UnrealEngineShaderPluginDemo](https://github.com/Temaran/UnrealEngineShaderPluginDemo). This tutorial covers various aspects of shader creation, offering insights and best practices for UE4 developers.
+For comprehensive guidance on shader development in UE, refer to the well-known tutorial repository by [Temaran](https://github.com/Temaran) - [UnrealEngineShaderPluginDemo](https://github.com/Temaran/UnrealEngineShaderPluginDemo). This tutorial covers various aspects of shader creation, offering insights and best practices for UE developers.
 
 Feel free to explore and experiment with compute shaders in UE5 using this repository as a starting point. Happy coding!
